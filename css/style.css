@@ -52,10 +52,15 @@ Resource style
 
 -------------------------------- */
 header {
-  height: 200px;
-  line-height: 200px;
-  text-align: center;
-  background: #303e49;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    background: #303e49;
+    background-image: url("../img/cd-icon-logo2.svg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-size: cover;
 
 }
 
